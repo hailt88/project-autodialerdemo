@@ -1,0 +1,1 @@
+A simple code to generate call files to be processed by asterisk to trigger phone calls.
